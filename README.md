@@ -4,9 +4,9 @@ retrieving and deleting Person entities
 
 Clone this repository locally
 
-git clone 
+git clone https://github.com/prem1904/ebi01705.git
 
-cd 
+cd ebi01705
 
 npm install
 
