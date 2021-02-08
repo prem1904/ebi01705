@@ -22,7 +22,7 @@ it will start the local host in the port 3000
 
 ###Open the postman api 
 
-CREATE RESOURCES USING ***POST COMMAND
+CREATE RESOURCES USING ***POST COMMAND***
 
 use the below URL  with POST Command  as body Json Data
 
@@ -39,7 +39,7 @@ http://localhost:3000/api/v1/users  Generates Unique ID for Data
 
 ![image](https://user-images.githubusercontent.com/13142257/107215780-c66e6f00-6a31-11eb-8136-39d145aa946a.png)
 
-***UPDATE RESOURCES USING PUT COMMAND
+***UPDATE RESOURCES USING PUT COMMAND***
 
 use the below URL  with PUT Command  as body Json Data
 
@@ -58,7 +58,7 @@ body:
  Modified List after update using Get All resources
  ![image](https://user-images.githubusercontent.com/13142257/107217582-5f05ee80-6a34-11eb-968f-f905d51cc848.png)
  
-***Delete RESOURCES USING DELETE COMMAND
+***Delete RESOURCES USING DELETE COMMAND***
 
 use the below URL  with delete Command  
 http://localhost:3000/api/v1/users/:Id
@@ -70,7 +70,7 @@ id -uniqueId generated through insertion
  Modified List after update using Get All resources
  ![image](https://user-images.githubusercontent.com/13142257/107217807-b906b400-6a34-11eb-8ca6-6aefd468da29.png)
 
-***Get Specific RESOURCES USING GET COMMAND
+***Get Specific RESOURCES USING GET COMMAND***
 
 use the below URL  with delete Command  
 http://localhost:3000/api/v1/users/:Id
@@ -78,7 +78,7 @@ http://localhost:3000/api/v1/users/:Id
 id -uniqueId generated through insertion
 ![image](https://user-images.githubusercontent.com/13142257/107217134-c0798d80-6a33-11eb-8790-23deea4ed8f0.png)
 
-***Get All Resources using GET COMMAND
+***Get All Resources using GET COMMAND***
 
 http://localhost:3000/api/v1/users
 
