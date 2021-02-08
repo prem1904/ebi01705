@@ -2,7 +2,7 @@
 A Simple RESTful API which provides a service for storing, updating,
 retrieving and deleting Person entities
 
-###Clone this repository locally
+# Clone this repository locally
 
 git clone https://github.com/prem1904/ebi01705.git
 
@@ -16,11 +16,11 @@ install the dependencies
 Start debug mode
 via the below command to start the server.
 
-###***npm start***  
+# ***npm start***  
 
 it will start the local host in the port 3000 
 
-###Open the postman api 
+# Open the postman api 
 
 CREATE RESOURCES USING ***POST COMMAND***
 
