@@ -8,11 +8,12 @@ git clone https://github.com/prem1904/ebi01705.git
 
 cd ebi01705
 
-npm install
+Use command  npm install 
+install the dependencies 
 
 Development server
 
 Start debug mode
-via
+via the below command to start the server.
 
 npm start
